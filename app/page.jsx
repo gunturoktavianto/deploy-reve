@@ -7,6 +7,7 @@ import Qna from "../components/homepage/Qna";
 function Home() {
     return (
         <div className="App bg-white">
+            <title>Reve Indonesia</title>
             <Hero />
             <Category />
             <Qna />
