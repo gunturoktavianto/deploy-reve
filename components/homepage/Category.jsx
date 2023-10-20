@@ -7,7 +7,7 @@ import category4 from "@/public/images/category4.png";
 const Category = ({ product }) => {
     return (
         <>
-            <div className="flex justify-around mt-8">
+            <div className="md:flex md:justify-around mt-8 sm:mx-auto sm:ml-48">
                 <Image
                     src={category1}
                     alt="product anme"

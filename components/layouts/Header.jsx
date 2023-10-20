@@ -5,6 +5,7 @@ import Search from "./Search";
 import logo from "@/public/images/logo.png";
 import Image from "next/image";
 import CartImage from "./CartImages";
+// import Login from "./Login";
 
 
 const Navbar = () => {
@@ -44,6 +45,7 @@ const Navbar = () => {
                     ))}
                     <Search />
                     <CartImage />
+                    {/* <Login /> */}
                     <div className="drawer drawer-end">
                         <input
                             id="my-drawer-4"
