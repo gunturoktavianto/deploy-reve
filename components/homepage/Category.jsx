@@ -21,13 +21,13 @@ const Category = ({ product }) => {
                     width="300"
                 />
                 <Image
-                    src={category3}
+                    src={category4}
                     alt="product anme"
                     height="240"
                     width="300"
                 />
                 <Image
-                    src={category4}
+                    src={category3}
                     alt="product anme"
                     height="240"
                     width="300"
