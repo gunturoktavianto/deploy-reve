@@ -11,7 +11,7 @@ export default function Cart({ product }) {
 
     return (
         <>
-            <div className="items-center justify-center py-3 px-48 mt-10 mb-60">
+            <div className="items-center justify-center py-3 px-48 mt-10 mb-60 bg-white">
                 <h1 className="font-bold text-2xl">My Bag</h1>
                 <div className="flex">
                     <div className="overflow-x-auto">

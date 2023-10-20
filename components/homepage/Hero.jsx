@@ -5,7 +5,7 @@ import Link from "next/link";
 
 export default function Hero() {
     return (
-        <Link className="mt-8 flex justify-center w-full" href='/catalogue'>
+        <Link className="pt-8 flex justify-center w-full" href='/catalogue'>
             <Image src={hero} />
         </Link>
     );
