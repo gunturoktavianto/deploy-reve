@@ -12,11 +12,11 @@ const Footer = () => {
             <footer className=" bg-black text-white">
                 <div className="footer footer-center">
                     {/* <main className={abhaya.className}> */}
-                        <p className="font-bold text-5xl mt-5">
+                        <p className="font-bold md:text-5xl text-2xl mt-5">
                             You can never get bored of fashion
                         </p>
                     {/* </main> */}
-                    <p className="max-w-lg text-gray-300 mt-1">
+                    <p className="md:max-w-lg text-gray-300 mt-1">
                         Lorem ipsum dolor, sit amet consectetur adipisicing
                         elit. Illum beatae distinctio error nulla soluta magni
                         maiores ad assumenda dolores autem nemo provident,
