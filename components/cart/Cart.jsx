@@ -68,10 +68,10 @@ export default function Cart({ product }) {
                             </tbody>
                         </table>
                     </div>
-                    <div className="ml-8 border border-black rounded-md">
+                    {/* <div className="ml-8 border border-black rounded-md">
                         <p className="font-bold">Shipping?</p>
                         
-                    </div>
+                    </div> */}
                 </div>
             </div>
         </>
