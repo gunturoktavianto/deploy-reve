@@ -8,7 +8,7 @@ export default function CartImages() {
     return (
         <div>
             <Link href="/cart">
-                <Image src={CartImage} className="w-48 ml-4" />
+                <Image src={CartImage} className="w-20 ml-4" />
             </Link>
         </div>
     );

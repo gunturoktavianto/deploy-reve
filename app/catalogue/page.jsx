@@ -9,10 +9,10 @@ const getProducts = async () => {
 };
 
 const Catalogues = async () => {
-    // const productsData = await getProducts();
+    const productsData = await getProducts();
 
-    // return <Catalogue data={productsData} />;
-    return <ComingSoon />;
+    return <Catalogue data={productsData} />;
+    
 };
 
 export default Catalogues;
